@@ -18,5 +18,16 @@ README ANDY YANACALLO
 [x-account](https://x.com/Yanacayo)[✖]
 
 ## Logo
+
 ![Logo](https://tse4.mm.bing.net/th?id=OIG1.Fl1rq4hJAZrxsMolHt5Z&pid=ImgGn)
+
+
+## 🛠 Skills
+JAVA [☕]
+
+C++ [©]
+
+PYTHON [🐍]
+
+
 
