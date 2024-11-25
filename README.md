@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**elver159123/elver159123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+README ANDY YANACALLO
 
-Here are some ideas to get you started:
+- 🔭 I’m currently study programation
+- 🌱 I’m currently learning developer software
+- 👯 I’m looking to collaborate on proyects about IA
+- 💬 Ask me about technologi and technical support
+- 📫 How to reach me: find me in facebook like Andy YAnacallo
+- ⚡ Fun fact: I like money
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Enlaces
+
+[Facebook](https://www.facebook.com/esteban.electronick/)[👥]
+
+[e-mail](andyya2004@gmail.com)[📧]
+
+[x-account](https://x.com/Yanacayo)[✖]
+
+
+
+![Logo](https://tse2.mm.bing.net/th?id=OIG2.QP0dYiT2_c3DC0FI82v8&pid=ImgGn)
+
